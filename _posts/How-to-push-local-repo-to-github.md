@@ -1,7 +1,8 @@
 ---
 title: How to push local repo to github
 date: 2024-07-12 11:42:43
-tags:
+tags: 技术
+categories: 杂谈
 ---
 
 ```
