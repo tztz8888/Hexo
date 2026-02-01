@@ -1,9 +1,23 @@
 ---
 title: Game Physics Engine Development, Part I
 date: 2024-07-12 11:15:48
-tags:
+tags: 
+  - Physics
+  - GameDev
+categories: ReadNotes
 ---
 
-# End on Page 46
+# Part I: Particle Physics
 
-t b c c
+## Progress
+
+Currently on page 46. Notes to be continued.
+
+## Summary
+
+This section covers the fundamentals of particle physics in game development, including:
+- Basic particle motion
+- Force generators
+- Integration schemes
+
+*(Notes in progress - will be updated as reading continues)*
